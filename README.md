@@ -4,6 +4,8 @@
 
 **Team:** CODE CRUSADERS_2  
 **Hackathon:** Smart India Hackathon 2026 (SIH 2026)
+
+
 ## 📖 Project Overview
 
 **KURAL** is an AI-powered interactive desktop companion inspired by the traditional **Thanjavur Thalaiyati Bommai**.
@@ -397,13 +399,41 @@ The following AI-generated visuals represent the **design vision and conceptual 
 ### 🌟 KURAL Concept
 
 <p align="center">
-  <img src="screenshots/kural-concept.png" width="75%">
+  <img src="WhatsApp Image 2026-09-23 at 11.42.17 AM.jpeg" width="75%">
 </p>
 
 ### 🔄 KURAL Design Views
 
 <p align="center">
-  <img src="screenshots/kural-design-views.png" width="85%">
+  <img src="WhatsApp Image 2026-09-18 at 1.30.56 PM.jpeg" width="85%">
 </p>
 
 > **Note:** These visuals are AI-generated concept representations created to communicate the intended design and interaction vision. They do not represent photographs of the physical prototype.
+
+## 🌟 Why KURAL?
+
+KURAL brings together **cultural heritage and modern technology** in the form of an interactive AI companion.
+
+Inspired by the traditional **Thanjavur Thalaiyati Bommai**, KURAL reimagines a familiar cultural form through voice AI, embedded systems, visual interaction, and intelligent conversation.
+
+### What makes KURAL different?
+
+- 🇮🇳 **Cultural Identity** — Inspired by a traditional Tamil cultural icon.
+- 🧠 **Intelligent Interaction** — Designed to understand and respond to natural user conversations.
+- 🗣️ **Multilingual Communication** — Supports English, Tamil, and Tanglish interaction.
+- 👁️ **Physical Expression** — Combines voice, OLED animations, and interactive hardware.
+- 💬 **Personalized Experience** — Designed with personality, context, and memory capabilities.
+- 🔧 **Embedded AI** — Brings AI interaction into a physical desktop companion.
+- 🚀 **Future-Ready Architecture** — Designed to evolve toward a customized KURAL AI system.
+
+> **KURAL's vision is to preserve cultural identity while exploring how modern AI can create a more natural and interactive relationship between people and technology.**
+
+## ❤️ Conclusion
+
+KURAL represents an exploration of how **Artificial Intelligence, embedded systems, voice interaction, and cultural heritage** can come together to create a meaningful interactive companion.
+
+Inspired by the traditional **Thanjavur Thalaiyati Bommai**, KURAL combines a physical form with conversational AI, multilingual interaction, audio processing, OLED-based expressions, and intelligent interaction.
+
+The current prototype establishes the foundation for the system, while the planned architecture provides a path toward a more personalized and customized **KURAL AI ecosystem**.
+
+> **KURAL — Where Culture Meets Intelligence.**
